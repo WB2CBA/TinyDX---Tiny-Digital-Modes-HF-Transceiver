@@ -8,7 +8,7 @@ TinyDX in Action:
 https://youtu.be/lumVageEz0A?si=CVWjLaan0oGv8utl
 
 1. Introduction
----------------   
+   ---------------   
 
 TinyDX, a miniature high-frequency (HF) digital modes transceiver optimized for FT8 and FT4 operation. Developed with an emphasis on extreme portability and USB power efficiency, TinyDX integrates a 
 
