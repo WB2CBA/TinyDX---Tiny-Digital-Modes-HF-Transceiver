@@ -16,6 +16,8 @@ full-featured two-band transceiver within a 50 mm × 25 mm × 30 mm enclosure. T
 
 low current draw, and complete operation from standard 5V USB sources, eliminating the need for separate power supplies or computers in field operation. 
 
+A phone or tablet running an application is all needed for operation.
+
 Low-power HF communication, often referred to as QRP operation, has long been valued for its efficiency, minimal equipment footprint, and capacity for long-distance communication under constrained power 
 
 conditions. The TinyDX project was conceived to advance this philosophy, focusing on sub-watt (QRPp) operation while maintaining 
