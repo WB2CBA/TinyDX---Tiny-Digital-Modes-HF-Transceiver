@@ -15,9 +15,9 @@ low current draw, and complete operation from standard 5V USB sources, eliminati
 
 Low-power HF communication, often referred to as QRP operation, has long been valued for its efficiency, minimal equipment footprint, and capacity for long-distance communication under constrained power 
 
-conditions. The TinyDX project was conceived to advance this philosophy, 
+conditions. The TinyDX project was conceived to advance this philosophy, focusing on sub-watt (QRPp) operation while maintaining 
 
-focusing on sub-watt (QRPp) operation while maintaining full compatibility with modern digital communication modes such as FT8 and FT4.
+full compatibility with modern digital communication modes such as FT8 and FT4.
 
 Earlier designs, such as the ADX UnO, achieved credit-card-sized form factors but still required external power sources and were less convenient for fully portable use. TinyDX was engineered to address 
 
