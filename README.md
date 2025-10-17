@@ -111,9 +111,9 @@ for Android.
 
 7. Conclusion
 
-TinyDX  demonstrates the feasibility of a fully functional, sub-watt digital modes HF transceiver within a minimal physical envelope. Through innovative use of modular PCB stacking, efficient power 
+TinyDX  demonstrates the feasibility of a fully functional, sub-watt digital modes HF transceiver within a minimal physical envelope. Through use of modular PCB stacking, efficient power 
 
-management, and compact RF design, the system offers a practical solution for portable FT8 and FT4 operation without external power sources or computers. The design principles established in TinyDX 
+management, and compact RF design, TinyDX offers a practical solution for portable FT8 and FT4 operation without external power sources or computers. The design principles established in TinyDX 
 
 provide a foundation for future ultra-compact, energy-efficient HF transceivers.
 
