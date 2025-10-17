@@ -119,7 +119,7 @@ provide a foundation for future ultra-compact, energy-efficient HF transceivers.
 
 Reference Links:
 ----------------
-1.TinyDX GitHub Repository – https://github.com/WB2CBA/TinyDX---Tiny-Digital-Modes-HF-Transceiver
+1. TinyDX GitHub Repository – https://github.com/WB2CBA/TinyDX---Tiny-Digital-Modes-HF-Transceiver
 
 2. JLCPCB Component Library – https://jlcpcb.com/parts/componentSearch
 
