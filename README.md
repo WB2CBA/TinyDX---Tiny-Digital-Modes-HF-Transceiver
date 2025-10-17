@@ -8,7 +8,7 @@ TinyDX in Action:
 https://youtu.be/lumVageEz0A?si=CVWjLaan0oGv8utl
 
 1. Introduction
-   ---------------   
+   -------------   
 
 TinyDX, a miniature high-frequency (HF) digital modes transceiver optimized for FT8 and FT4 operation. Developed with an emphasis on extreme portability and USB power efficiency, TinyDX integrates a 
 
@@ -27,7 +27,7 @@ Earlier designs, such as the ADX UnO, achieved credit-card-sized form factors bu
 these limitations, providing a smaller, USB-powered solution that could operate directly from a mobile phone or tablet.
 
 2. Design Objectives
---------------------   
+   -----------------   
 
 The primary goal of TinyDX was to achieve a highly compact, energy-efficient digital transceiver capable of operating on USB power. The design objectives included:
 
@@ -42,7 +42,7 @@ The primary goal of TinyDX was to achieve a highly compact, energy-efficient dig
 - Minimal external dependencies (no dedicated PC or battery required)
 
 3. System Architecture
-----------------------
+   -------------------
 
 TinyDX consists of three primary modules: the Main Controller, Receiver, and Transmitter modules. These modules are interconnected via 2×6 pin headers and sandwiched between two protective PCB plates to 
 
@@ -87,7 +87,7 @@ providing reliable output power up to 900 mW on 20 m and 700 mW on 15 m bands.
 An optional miniature heatsink may be added for additional thermal stability.
 
 4. Fabrication and Assembly
----------------------------
+   ------------------------
 
 TinyDX employs 0603-sized SMD components to minimize footprint. Fabrication and component placement were outsourced to JLCPCB, utilizing their pick-and-place service with custom Gerber, BOM, and CPL 
 
@@ -98,7 +98,7 @@ Assembly requires manual soldering of select through-hole components, including 
 The stacked structure is assembled using 6 mm M3 spacers, bolts, and nuts.
 
 5. Firmware and Programming
----------------------------
+   ------------------------
 
 The Atmega328P/AU microcontroller operates with the Arduino Uno bootloader and firmware written in Arduino C. The bootloader can be uploaded using an external Arduino board as ISP, following Arduino’s 
 
@@ -107,7 +107,7 @@ standard programming guide. Once programmed, firmware uploads are conducted via 
 Firmware and documentation are publicly available on the project’s GitHub repository: https://github.com/WB2CBA/TinyDX---Tiny-Digital-Modes-HF-Transceiver
 
 6. Operation
-------------
+   ----------
 
 TinyDX supports FT8 and FT4 modes on the configured bands. Operation involves connecting the device via USB to a host system (PC, iOS, or Android), selecting the correct audio input/output, and ensuring 
 
@@ -118,7 +118,7 @@ For WSJT-X, the configuration should be set to 'Rig: None' and 'PTT: VOX', with 
 for Android.
 
 7. Conclusion
--------------
+   ----------
 
 TinyDX  demonstrates the feasibility of a fully functional, sub-watt digital modes HF transceiver within a minimal physical envelope. Through use of modular PCB stacking, efficient power 
 
