@@ -9,15 +9,15 @@ https://youtu.be/lumVageEz0A?si=CVWjLaan0oGv8utl
 
 TinyDX V1.0, a miniature high-frequency (HF) digital modes transceiver optimized for FT8 and FT4 operation. Developed with an emphasis on extreme portability and USB power efficiency, TinyDX integrates a 
 
-full-featured two-band transceiver within a 50 mm × 25 mm × 30 mm enclosure. The system achieves sub-watt transmission power, low current draw, and complete operation from standard 5V USB sources, 
+full-featured two-band transceiver within a 50 mm × 25 mm × 30 mm enclosure. The system achieves sub-watt transmission power, 
 
-eliminating the need for separate power supplies or computers in field operation. 
+low current draw, and complete operation from standard 5V USB sources, eliminating the need for separate power supplies or computers in field operation. 
 
 Low-power HF communication, often referred to as QRP operation, has long been valued for its efficiency, minimal equipment footprint, and capacity for long-distance communication under constrained power 
 
-conditions. The TinyDX project was conceived to advance this philosophy, focusing on sub-watt (QRPp) operation while maintaining full compatibility with modern digital communication modes such as FT8 and 
+conditions. The TinyDX project was conceived to advance this philosophy, 
 
-FT4.
+focusing on sub-watt (QRPp) operation while maintaining full compatibility with modern digital communication modes such as FT8 and FT4.
 
 Earlier designs, such as the ADX UnO, achieved credit-card-sized form factors but still required external power sources and were less convenient for fully portable use. TinyDX was engineered to address 
 
