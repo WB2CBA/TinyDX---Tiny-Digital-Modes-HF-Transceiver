@@ -117,7 +117,8 @@ management, and compact RF design, TinyDX offers a practical solution for portab
 
 provide a foundation for future ultra-compact, energy-efficient HF transceivers.
 
-References
+Reference Links:
+----------------
 1.TinyDX GitHub Repository – https://github.com/WB2CBA/TinyDX---Tiny-Digital-Modes-HF-Transceiver
 
 2. JLCPCB Component Library – https://jlcpcb.com/parts/componentSearch
