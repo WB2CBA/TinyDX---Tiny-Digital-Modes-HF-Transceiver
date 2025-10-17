@@ -7,7 +7,7 @@ TinyDX in Action:
 
 https://youtu.be/lumVageEz0A?si=CVWjLaan0oGv8utl
 
-TinyDX V1.0, a miniature high-frequency (HF) digital modes transceiver optimized for FT8 and FT4 operation. Developed with an emphasis on extreme portability and USB power efficiency, TinyDX integrates a 
+TinyDX, a miniature high-frequency (HF) digital modes transceiver optimized for FT8 and FT4 operation. Developed with an emphasis on extreme portability and USB power efficiency, TinyDX integrates a 
 
 full-featured two-band transceiver within a 50 mm × 25 mm × 30 mm enclosure. The system achieves sub-watt transmission power, 
 
@@ -75,9 +75,11 @@ The Transmitter module consists of:
 
 - 74ACT244-based RF power amplifier with 5-band low-pass filter
 
-Despite the unconventional use of 6.5V on a 5V-rated IC, the 74ACT244 has demonstrated tolerance up to 7V within manufacturer limits, providing reliable output power up to 900 mW on 20 m and 700 mW on 15 
+Despite the unconventional use of 7.0 V on a 5V-rated IC, the 74ACT244 has demonstrated tolerance up to 7V within manufacturer limits, 
 
-m bands. An optional miniature heatsink may be added for additional thermal stability.
+providing reliable output power up to 900 mW on 20 m and 700 mW on 15 m bands. 
+
+An optional miniature heatsink may be added for additional thermal stability.
 
 4. Fabrication and Assembly
 
@@ -85,9 +87,9 @@ TinyDX employs 0603-sized SMD components to minimize footprint. Fabrication and 
 
 files. The modular boards include the Main, TX, and RX modules, as well as top and bottom cover plates.
 
-Assembly requires manual soldering of select through-hole components, including the FTDI connector, Mini-Circuits T2-613-KK81+ transformer, and SMA antenna connector. The stacked structure is assembled 
+Assembly requires manual soldering of select through-hole components, including the FTDI connector, Mini-Circuits T2-613-KK81+ transformer, and SMA antenna connector. 
 
-using 6 mm M3 spacers, bolts, and nuts.
+The stacked structure is assembled using 6 mm M3 spacers, bolts, and nuts.
 
 5. Firmware and Programming
 
@@ -109,7 +111,7 @@ for Android.
 
 7. Conclusion
 
-TinyDX V1.0 demonstrates the feasibility of a fully functional, sub-watt digital modes HF transceiver within a minimal physical envelope. Through innovative use of modular PCB stacking, efficient power 
+TinyDX  demonstrates the feasibility of a fully functional, sub-watt digital modes HF transceiver within a minimal physical envelope. Through innovative use of modular PCB stacking, efficient power 
 
 management, and compact RF design, the system offers a practical solution for portable FT8 and FT4 operation without external power sources or computers. The design principles established in TinyDX 
 
