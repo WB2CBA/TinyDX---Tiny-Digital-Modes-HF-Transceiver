@@ -138,7 +138,5 @@ Reference Links:
 
 4. Arduino Bootloader Guide – https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP/
 
-5. FT8TW Android Application – https://play.google.com/store/apps/details?id=com.ft8.tw
-
-6. IFTX iOS Application – https://apps.apple.com/us/app/iftx/id6446093115
+5. IFTX iOS Application – https://apps.apple.com/us/app/iftx/id6446093115
 
