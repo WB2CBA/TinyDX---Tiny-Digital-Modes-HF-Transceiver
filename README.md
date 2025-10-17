@@ -104,7 +104,7 @@ The Atmega328P/AU microcontroller operates with the Arduino Uno bootloader and f
 
 standard programming guide. Once programmed, firmware uploads are conducted via USB-to-TTL adapter within the Arduino IDE.
 
-Firmware and documentation are publicly available on the project’s GitHub repository: https://github.com/WB2CBA/TinyDX---Tiny-Digital-Modes-HF-Transceiver
+TinyDX is an OPEN SOURCE PROJECT and Firmware and documentation are publicly available on the project’s GitHub repository: https://github.com/WB2CBA/TinyDX---Tiny-Digital-Modes-HF-Transceiver
 
 6. Operation
    ----------
