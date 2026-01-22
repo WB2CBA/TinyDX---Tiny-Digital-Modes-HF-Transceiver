@@ -141,7 +141,7 @@ pinMode(7, INPUT); //PD7 = AN1 = HiZ, PD6 = AN0 = 0
 void loop()
 {  
 
-Band_Select();
+Band_Select();   // keep in mind: every call will delay by 100ms
 
  //--------------------------- LIMIT OUT OF OPERATION BANDS TO ONLY RX -----------------
 freqdiv = freq / 1000000;
@@ -312,38 +312,26 @@ M = digitalRead(M_SW);
 B = digitalRead(B_SW);
 
 if ((B == LOW)&&(M == LOW)) {
-   delay(100); 
-if ((B == LOW)&&(M == LOW)) 
- {
- freq = B1_FT8;   
-  }
+   delay(100); //keeping delay here for now
+    freq = B1_FT8;   
 }
 
 
 if ((B == LOW)&&(M == HIGH)) {
-   delay(100); 
-if ((B == LOW)&&(M == HIGH)) 
- {
- freq = B1_FT4;   
-  }
+   delay(100); //keeping delay here for now
+   freq = B1_FT4;   
 }
 
 
 if ((B == HIGH)&&(M == LOW)) {
-   delay(100); 
-if ((B == HIGH)&&(M == LOW)) 
- {
- freq = B2_FT8;   
-  }
+   delay(100); //keeping delay here for now
+   freq = B2_FT8;   
 }
 
 
 if ((B == HIGH)&&(M == HIGH)) {
-   delay(100); 
-if ((B == HIGH)&&(M == HIGH)) 
- {
- freq = B2_FT4;   
-  }
+   delay(100); //keeping delay here for now
+   freq = B2_FT4;   
 }
 }
 
@@ -392,3 +380,4 @@ void Freq_assign() {
   }
 }
 //************************[ End of Frequency assign function ]*************************
+
