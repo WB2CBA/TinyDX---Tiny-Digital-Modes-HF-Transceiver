@@ -43,19 +43,13 @@
 #include "Wire.h"
 #include <EEPROM.h>
 //*******************************[ VARIABLE DECLERATIONS ]*************************************
-uint32_t val;
-int addr;
 unsigned int Band = 0;
-//unsigned long freq; 
-unsigned long int freq1;
+//unsigned long freq;
 unsigned long int freq = 14074000;
 unsigned long int freq4;
 unsigned long int freqdiv;
 int32_t cal_factor = 0;
 int TX_State = 0;
-int TX_inh;
-int TXSW_State;
-int index = 0;
 int B;
 int M;
 
