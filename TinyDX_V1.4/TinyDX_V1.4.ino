@@ -85,7 +85,7 @@ void setup()
       
   Wire.begin(); // wake up I2C bus 
   
-  Serial.begin(9600); while (!Serial);
+  Serial.begin(9600);
        
 pinMode(TX, OUTPUT);
 
