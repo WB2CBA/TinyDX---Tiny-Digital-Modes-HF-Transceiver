@@ -1,5 +1,11 @@
-# TinyDX---Tiny-Digital-Modes-HF-Transceiver
-TinyDX is a minituarized two band HF Digital Modes QRPp Transceiver
+# TinyDX — Tiny Digital Modes HF Transceiver
+
+[![Build](https://github.com/WB2CBA/TinyDX---Tiny-Digital-Modes-HF-Transceiver/actions/workflows/build.yml/badge.svg)](https://github.com/WB2CBA/TinyDX---Tiny-Digital-Modes-HF-Transceiver/actions/workflows/build.yml)
+[![Platform](https://img.shields.io/badge/platform-Arduino%20Uno%20%28ATmega328P%29-blue?logo=arduino)](https://www.arduino.cc/)
+[![Si5351 lib](https://img.shields.io/badge/Si5351%20library-v2.1.3%20(NT7S)-informational)](https://github.com/etherkit/Si5351Arduino)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+TinyDX is a miniaturised two-band HF Digital Modes QRPp Transceiver
 ![TinyDX 2](https://github.com/user-attachments/assets/3910f045-4386-422a-8d2e-bf21e2abec2e)
 
 
