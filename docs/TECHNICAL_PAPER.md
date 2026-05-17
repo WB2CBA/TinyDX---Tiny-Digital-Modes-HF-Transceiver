@@ -81,7 +81,7 @@ The firmware is a single sketch file: `TinyDX_V1.4/TinyDX_V1.4.ino`
 
 TinyDX supports FT8 and FT4 modes on the configured bands. Operation involves connecting the device via USB to a host system (PC, iOS, or Android), selecting the correct audio input/output, and ensuring mode and band synchronisation between the device and application.
 
-For WSJT-X, set Rig to *None* and PTT to *VOX*; TinyDX is recognised as *USB Audio Device*. For mobile operation, compatible applications include IFTX for iOS and FT8TW / TrailDigi for Android.
+For WSJT-X, set Rig to *None* and PTT to *VOX*; TinyDX is recognised as *USB Audio Device*. For mobile operation, compatible applications include IFTX for iOS and FT8TW for Android.
 
 ---
 

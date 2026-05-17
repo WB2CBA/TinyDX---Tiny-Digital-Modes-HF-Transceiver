@@ -25,7 +25,7 @@ TinyDX is a miniaturised two-band HF Digital Modes QRPp Transceiver — USB-powe
 | Configurable bands | 20 / 17 / 15 / 12 / 10 m (LPF swap required) |
 | Power supply | 5V USB — ≤ 350 mA TX, ≤ 100 mA RX |
 | Enclosure | 50 × 25 × 30 mm |
-| Compatible apps | WSJT-X (PC/Mac/Linux), IFTX (iOS), FT8TW / TrailDigi (Android) |
+| Compatible apps | WSJT-X (PC/Mac/Linux), IFTX (iOS), FT8TW (Android) |
 
 ---
 
@@ -37,7 +37,7 @@ TinyDX is a miniaturised two-band HF Digital Modes QRPp Transceiver — USB-powe
 4. **Configure your app:**
    - **WSJT-X** — Rig: None · PTT: VOX · Audio device: USB Audio Device
    - **IFTX (iOS)** — select TinyDX from the audio input list
-   - **FT8TW / TrailDigi (Android)** — select TinyDX from the audio input list
+   - **FT8TW (Android)** — select TinyDX from the audio input list
 
 ---
 
@@ -55,6 +55,10 @@ The firmware is a single Arduino sketch: `TinyDX_V1.4/TinyDX_V1.4.ino`
 
 ## Documentation
 
+- [Build Guide](docs/BUILD.md) — PCB ordering, through-hole soldering, bootloader programming, and assembly
+- [Firmware Setup](docs/SETUP.md) — library installation and firmware upload procedure
+- [Operating Guide](docs/OPERATING.md) — WSJT-X, IFTX, and FT8TW configuration
+- [Bill of Materials](docs/BOM.md) — full component list with LCSC part codes
 - [Technical Paper](docs/TECHNICAL_PAPER.md) — full design description, system architecture, and theory of operation
 
 ---
